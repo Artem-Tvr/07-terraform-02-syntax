@@ -138,4 +138,8 @@ you run "terraform apply" now.
 CloudFormation
 ```
 
-2.
+2. 
+
+```
+https://github.com/Artem-Tvr/07-terraform-02-syntax/tree/main/terraform
+```
